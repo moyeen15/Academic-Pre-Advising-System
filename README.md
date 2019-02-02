@@ -8,11 +8,11 @@ Every student has to register for a number of courses from a list of offered cou
 Pre-advising system aims at reducing the repetitive tasks and help a student plan his/her education roadmap smoothly by overcoming the hassles faced before and during course advising. The main objective of the project is to convert the manual pre-advising process into a software based pre-advising system. It will determine eligible courses for students for the upcoming semester and collect anticipated courses information from students through the pre-advising system. The system will also help to forecast courses needed to offer for the upcoming semester in a priority basis. 
 
 ## USER MODULES & FEATURES
-## ADMIN: 
+### ADMIN: 
 The main role of admin is to add, update and delete faculty account. Admin can also add, update and delete student account in case of any difficulties.
-#STUDENT: 
+### STUDENT: 
 Student can view completed courses information along with grades. View list of eligible courses based on completed courses and checking prerequisites. View the number of courses or credits a student can take in the upcoming semester based on CGPA and university restrictions. Select intended courses that he/she wants to enroll in the upcoming semester within the allowed credit load. Modify the list of intended courses previously selected.
-## FACULTY: 
+### FACULTY: 
 Faculty can view and update students’ academic course information such as completed courses, passed courses and grades, failed/withdrawn courses, GPA and CGPA of a student. Faculty can also view individual student’s eligible courses for the upcoming semester. View list of courses to offer in a priority basis for the upcoming semester based on eligible courses of all students and provided intended courses information collected from students.
 
 ## CONCLUSION
